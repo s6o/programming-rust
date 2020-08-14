@@ -1,0 +1,11 @@
+[package]
+authors = ["Oliver Sõro <oliver.s6ro@gmail.com>"]
+edition = "2018"
+name = "iron-gcd"
+version = "0.1.0"
+
+[dependencies]
+iron = "0.6.0"
+params = "0.8.0"
+router = "0.6.0"
+urlencoded = "0.6.0"

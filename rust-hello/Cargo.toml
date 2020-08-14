@@ -1,0 +1,7 @@
+[package]
+name = "rust-hello"
+version = "0.1.0"
+authors = ["Oliver Sõro <oliver.s6ro@gmail.com>"]
+edition = "2018"
+
+[dependencies]
