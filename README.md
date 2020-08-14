@@ -12,3 +12,6 @@ after POST so that browser won't complain on reload.
 Added iron's params plugin to parse the previous result form URL's query
 parameters after redirect.
 
+## mandlebrot
+Mandlebrot generation as PNG image with the num_cpus crate config.
+
