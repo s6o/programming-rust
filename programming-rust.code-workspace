@@ -1,11 +1,14 @@
 {
   "folders": [
-	{
-		"path": "iron-gcd"
-	},
-	{
-		"path": "rust-hello"
-	}
-],
+    {
+      "path": "iron-gcd"
+    },
+    {
+      "path": "rust-hello"
+    },
+    {
+      "path": "mandelbrot"
+    }
+  ],
   "settings": {}
 }
