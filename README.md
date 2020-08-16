@@ -15,3 +15,6 @@ parameters after redirect.
 ## mandlebrot
 Mandlebrot generation as PNG image with the num_cpus crate config.
 
+## murderous-artists
+Reminder of move semantics, reference basics.
+

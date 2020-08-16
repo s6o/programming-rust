@@ -8,6 +8,9 @@
     },
     {
       "path": "mandelbrot"
+    },
+    {
+      "path": "murderous-artists"
     }
   ],
   "settings": {}
